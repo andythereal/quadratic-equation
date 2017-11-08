@@ -15,7 +15,7 @@ else {
     else if (disk == 0) {
         const x = -1 * b / 2 * a;
         document.write('<br>' + 'Your Equation: ' + a + 'x^2 + ' + b + 'x + ' + c + ' = 0');
-        document.write('<br>' + '<br>' + 'Result: x1 = ' + x + '<br>');
+        document.write('<br>' + '<br>' + 'Result: x = ' + x + '<br>');
     }
     else {
         document.write('<br>' + 'Your Equation: ' + a + 'x^2 + ' + b + 'x + ' + c + ' = 0');
