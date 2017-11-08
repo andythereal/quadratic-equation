@@ -1,6 +1,6 @@
 html {
-  max-width: 720px;
-  margin: 0 auto; 
+    max-width: 720px;
+    margin: 0 auto;
 }
 
 .background {
@@ -16,4 +16,7 @@ img {
     position: absolute;
     top: 0px;
     margin: 100px;
+    background-color: rgb(255,233,222);
+    border: 2px dashed red;
+    text-decoration: blink;
 }
