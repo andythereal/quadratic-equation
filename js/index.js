@@ -19,6 +19,6 @@ else {
     }
     else {
         document.write('<br>' + 'Your Equation: ' + a + 'x^2 + ' + b + 'x + ' + c + ' = 0');
-        document.write('<br>' + '<br>' + 'This equation has no real solution !' + '<br>' + '<br>');
+        document.write('<br>' + '<br>' + 'This equation has no real solution' + '<br>' + '<br>');
     }
 }
