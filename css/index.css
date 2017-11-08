@@ -1,0 +1,19 @@
+html {
+  max-width: 720px;
+  margin: 0 auto; 
+}
+
+.background {
+    position: relative;
+}
+
+img {
+    width: 100%;
+    opacity: 0.1;
+}
+
+.results {
+    position: absolute;
+    top: 0px;
+    margin: 100px;
+}
